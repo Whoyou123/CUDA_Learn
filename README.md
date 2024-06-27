@@ -1,2 +1,2 @@
 # CUDA_Learn
-将自己的cuda学习过程记录
+记录自己的cuda学习过程
